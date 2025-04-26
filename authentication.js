@@ -11,12 +11,7 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAZZ4TpCc-570Fw4SImQRkhYsx7Mu19eGA",
-  authDomain: "tpf4-f2921.firebaseapp.com",
-  projectId: "tpf4-f2921",
-  storageBucket: "tpf4-f2921.firebasestorage.app",
-  messagingSenderId: "94214366272",
-  appId: "1:94214366272:web:5fd1050cfd804f2b5beba5",
+  // secret
 };
 
 // Initialize Firebase
